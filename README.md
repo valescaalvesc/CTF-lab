@@ -1,4 +1,5 @@
 # CTF-lab
 
-## Networking
-- Nmap {}
+## Enumeration:
+- Nmap 
+- fping
