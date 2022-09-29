@@ -14,7 +14,7 @@
 
 ## Reverse Shell:
 - PentestMonkey
-- 
+ 
 ## Password Cracking:
 - Hydra
 - John the Ripper
