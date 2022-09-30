@@ -30,3 +30,6 @@
 
 ## Web tests:
 - Burp Suite
+
+##  Linux Privilege Escalation
+- LinPEAS
